@@ -807,4 +807,4 @@ Downloads and installs VC++ Redistributables for:
 
 ---
 
-*Document generated from script analysis. Last updated: December 2024*
+*Document generated from script analysis. Last updated: December 2026*
